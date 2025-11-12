@@ -16,7 +16,7 @@ function binarySearch(array, item){
 
   }
 
-  return None;
+  return null;
 }
 
 let array1 = [1,3,5,7,9];
